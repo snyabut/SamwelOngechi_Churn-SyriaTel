@@ -3,7 +3,9 @@
 **A Data-Driven Retention Strategy.**
 
 **Author:** [Samwel Ongechi](https://www.linkedin.com/in/samwelnyabuti/)
+
 **Tools Used:** Python, scikit-learn, pandas, seaborn, matplotlib, Jupyter Notebook  
+
 **Dataset Source:** [SyriaTel Churn Dataset on Kaggle](https://www.kaggle.com/becksddf/churn-in-telecoms-dataset)
 
 
