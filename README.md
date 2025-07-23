@@ -78,8 +78,8 @@ There were **no missing values**, and minimal preprocessing was required beyond 
 ### 4. Model Evaluation
 - Evaluation metrics: **Precision**, **Recall**, **F1-score**, and **ROC AUC**
 - **Random Forest** achieved:
-  - **Precision (Churn):** 0.94
-  - **Recall (Churn):** 0.72
+  - **Precision (Churn):** 0.82
+  - **Recall (Churn):** 0.67
   - **ROC AUC Score:** 0.93
 - Logistic Regression underperformed, particularly in recall.
 
